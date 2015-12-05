@@ -38,3 +38,22 @@ make directory
 remove directory
 
 #Forking and Cloning Reflection
+
+
+First open your github account. In the top right corner of the page youll see a "+" sign. That sign creates a new repository. click it.
+
+Second, go to the page you want to fork. Click the "Fork" button at the top right of the repository page.
+
+Lastly open your new forked repository page and copy the information in "clone url"
+
+open your terminal and go to the location where your phase 0 content is saved.
+
+type in: git clone "enter copied url here"
+
+wait a copied seconds for the url to be cloned and youre done.
+
+I did not have any problems setting this up. The instructions were pretty clear and straight. Overall i learned how to set up a repository. This was my first time doing this.
+
+
+
+
